@@ -1,0 +1,22 @@
+Summary:
+
+Card access Dynamic System (Locked building accessed by correct colour card only)
+
+green,red,blue,white = 001,002,003,004 this is he intended order of 'tiers'.
+
+Doors can only be opened once per building spawn.
+
+Container within can only be opened once and cannot be picked up.
+
+Container contents are 'Hard' written in code as pulling them off a file is more server intense.
+
+This Mod is intended to use code already in the game so as to be resource streamlined.
+
+This was a coding exercise written from scratch with no references to anyone else's work.
+
+Please feel free to use any of code for any of your own projects.
+
+There are obviosly different ways to spawn buildings in .
+
+This was tested on DZE Dayz editor file .
+
